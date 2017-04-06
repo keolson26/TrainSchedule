@@ -1,0 +1,45 @@
+h1 {
+	font-family: 'Arimo', sans-serif;
+	font-weight: bold;
+}
+
+.panel-heading {
+	font-family: 'Arimo', sans-serif;
+	font-weight: bold;
+}
+
+table {
+	width: 100%;
+}
+
+th {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+tr {
+	margin: 8px;
+}
+
+td {
+	font-family: 'Titillium Web', sans-serif;
+	margin: 5px;
+	text-align: center;
+}
+
+label {
+	font-family: 'Titillium Web', sans-serif;
+	margin: 8px;
+}
+
+input {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+#addBtn {
+	font-family: 'Arimo', sans-serif;
+	font-weight: bold;
+}
+
